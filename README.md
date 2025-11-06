@@ -101,7 +101,7 @@ npm run build
 | Type         | URL                                                                                                                                          |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Backend**  | `http://ecs-backend-alb-xxxx.us-east-1.elb.amazonaws.com/`                                                                                   |
-| **Frontend** | [http://simplefrontendapp-vignesh.s3-website-us-east-1.amazonaws.com/](http://simplefrontendapp-vignesh.s3-website-us-east-1.amazonaws.com/) |
+| **Frontend** | [http://simplefrontendapp-vignesh.s3-website-us-east-1.amazonaws.com/](http://simplefrontendapp-shivam.s3-website-us-east-1.amazonaws.com/) |
 
 ---
 
